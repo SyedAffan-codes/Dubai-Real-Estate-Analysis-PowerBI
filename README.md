@@ -44,6 +44,10 @@ The dataset includes **1.6 million real estate transactions** sourced from open 
 
 ---
 
+* **Role:** Aspiring Data Analyst | Power BI Developer
+* **Location:** United Arab Emirates
+
 ### 📫 Contact & Connect
-* **Connect on LinkedIn:** [Click Here to View Profile][(https://www.linkedin.com/in/syed-affan-ahmed-570870236/)]
+* **Connect on LinkedIn:** [Click Here to View Profile](https://www.linkedin.com/in/syed-affan-ahmed-570870236/)
+* **Role:** Aspiring Data Analyst | Power BI Developer
 * **Location:** United Arab Emirates
