@@ -5,7 +5,8 @@ This project is a comprehensive analysis of the Dubai Real Estate market using *
 
 The dataset includes **1.6 million real estate transactions** sourced from open government data (Dubai Land Department), covering the period from 2000 to early 2026.
 
-![Dashboard Preview](dashboard_screenshot.png)
+<img width="1736" height="727" alt="image" src="https://github.com/user-attachments/assets/4cf5ee48-9453-4898-9c99-8aa6be90bbdd" />
+
 *(Note: Visual based on 1.6M rows of transaction data)*
 
 ---
