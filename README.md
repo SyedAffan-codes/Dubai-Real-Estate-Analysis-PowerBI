@@ -14,7 +14,8 @@ The goal was to transform raw government open data into an interactive executive
 ### 📥 Download & Usage
 Due to the large dataset size (1.6M+ rows), the Power BI file is hosted externally.
 
-1. **[Click Here to Download the Project File (.pbix)](https://drive.google.com/file/d/1UnJoICFj5DO58AZSc56BU0pvyyxDvS6a/view?usp=sharing)** via Google Drive. (Note: If Google Drive shows a list of files, ignore them and click the Download icon 📥 in the top-right corner)
+1. **[Click Here to Download the Project File (.pbix)](https://drive.google.com/file/d/1UnJoICFj5DO58AZSc56BU0pvyyxDvS6a/view?usp=sharing)** via Google Drive.
+   (Note: If Google Drive shows a list of files, ignore them and click the Download icon 📥 in the top-right corner)
 2. Open the file in **Microsoft Power BI Desktop**.
 3. Use the **Year Slider** (top right) to filter specific market cycles (e.g., the 2021–2025 Boom).
 4. Click on any bar in the "Top 10 Areas" chart to cross-filter the map and KPIs.
